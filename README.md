@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-🎓 I'm a **3rd-year Computer Science Engineering (Data Science)** student at *KCC Institute of Technology and Management*  
+🎓 I'm a **3rd-year Computer Science Engineering (Data Science)** student at *Dr. A. P. J. Abdul Kalam Technical University*  
 📊 Passionate about **data analysis**, **Python development**, and solving real-world problems  
 🚀 Exploring the world of **machine learning**, **data visualization**, and **web applications**  
 🧠 Always curious, self-motivated, and eager to grow  
